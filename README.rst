@@ -31,7 +31,11 @@ How to use
 
 As a command
 
+``$ rubik_solver -i wowgybwyogygybyoggrowbrgywrborwggybrbwororbwborgowryby -s Beginner``
+
 .. image:: docs/_static/cmd_tty.gif
+
+
 
 
 As a module
