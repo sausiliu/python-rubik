@@ -7,12 +7,15 @@ from os import path
 from codecs import open
 
 __author__ = 'Victor Cabezas'
+__date__ = '2018.9'
+__credits__ = ''
+__maintainer__ = 'Richard Liu'
+
 
 here = path.abspath(path.dirname(__file__))
 # Get the long description from the README file
 with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
-
 
 install_reqs = [
     'future==0.16.0',
