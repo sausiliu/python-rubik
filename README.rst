@@ -23,6 +23,8 @@ How to install
 --------------
 
 ``$ pip install rubik_solver``
+or 
+``$ python setup.y install``
 
 How to use
 ----------
